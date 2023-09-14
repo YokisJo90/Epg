@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV5">
+    <display-name lang="en">TV5</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/tv5-banner-1689335198626.png" />
+    <url>https://www.mana2.my/live-tv</url>
+  </channel>
+  <channel id="MCE">
+    <display-name lang="en">MCE</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/mxlhij.png" />
+    <url>https://www.mana2.my/live-tv</url>
+  </channel>
+  <channel id="horizonsports">
+    <display-name lang="en">Horizon Sports</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/grzrnx.png" />
+    <url>https://www.mana2.my/live-tv</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
+    <url>https://www.mana2.my/live-tv</url>
+  </channel>
+  
